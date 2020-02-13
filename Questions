@@ -9,4 +9,8 @@ If anyone have a better and optimal solution regarding these so please try to co
 
 Here are list of question which i solved and uploaded:
 1) Remove all the occurences in the array ? Solution DEL_OCC.cpp
-2)
+2) Merge sort solution ? Solution Merge.cpp
+3) Removing all prime nodes from single way linked list and insert the node at the end which contains sum of all prime nodes.
+  Solution - EVALUATI.cpp
+4) Creating a two way linked-list and insert the element if element is not present else delete the element next to the element.
+  Solution- Exam.cpp
