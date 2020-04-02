@@ -15,3 +15,7 @@ Here are list of question which i solved and uploaded:
 4) Creating a two way linked-list and insert the element if element is not present else delete the element next to the element.
   Solution- Exam.cpp
 5) Implementation of singly linked list ? Solution- MYLIST.cpp
+6) Implementation of doubly linked list ? Solution- DLL.cpp
+7) Implementation of cicular linked list ? Solution- CLL.cpp
+8) Implementation of stack using array ? Solution- stack.cpp
+9) Implementation of Queue ? Solution - Queue.cpp
