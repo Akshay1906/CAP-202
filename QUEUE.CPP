@@ -61,11 +61,7 @@ void dequeue()
 		cout<<"\nQueue underflow......";
 		emptyQueue();
 	}
-      /*	else if(front>rear)
-	{
-		cout<<"\nQueue Underflow !!!!!!";
-		emptyQueue();
-	}*/
+
 	else
 	{
 		front++;
